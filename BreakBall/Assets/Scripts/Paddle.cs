@@ -23,7 +23,17 @@ public class Paddle : MonoBehaviour
     }
 
     #endregion
+    //Camera
     private Camera mainCamera;
+
+    //Paddle Flick Movement Variables
+    private float flickAngle = 90f;
+    private float flickSpeed = 500f;
+    //private float returnSpeed = 300f;
+
+    private float targetAngle = 90f;
+    private float currentAngle = 90f;
+    //Paddle Positioning and Clamping
     private float paddleInitialY;
     private float defaultLeftClamp = 135;
     private float defaultRightClamp = 410;
@@ -36,6 +46,26 @@ public class Paddle : MonoBehaviour
 
     private void Update()
     {
+        //float rotation = 0f;
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            targetAngle = flickAngle + 180;
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            targetAngle = -flickAngle;
+        }
+
+        currentAngle = Mathf.MoveTowards(currentAngle, targetAngle, flickSpeed * Time.deltaTime);
+
+        transform.rotation = Quaternion.Euler(0f, 0f, currentAngle);
+
+        if (Mathf.Approximately(currentAngle, targetAngle) && targetAngle != 90f)
+        {
+            targetAngle = 90f;
+        }
+        //paddle movement
         PaddleMovement();
     }
 

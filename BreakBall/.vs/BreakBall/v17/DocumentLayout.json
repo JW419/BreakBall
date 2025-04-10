@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|c:\\users\\ja314680\\documents\\github\\breakball\\breakball\\assets\\scripts\\ballsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|c:\\users\\ja314680\\documents\\github\\breakball\\breakball\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\ballsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,19 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BallsManager.cs",
-              "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BallsManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BallsManager.cs",
-              "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BallsManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BallsManager.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Title": "BricksManager.cs",
+              "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BricksManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BricksManager.cs",
+              "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BricksManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BricksManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:11:51.952Z",
+              "WhenOpened": "2025-04-10T05:50:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brick.cs",
+              "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Brick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:43:26.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BallsManager.cs",
+              "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BallsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallsManager.cs",
+              "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BallsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallsManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:11:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
@@ -51,8 +84,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:11:54.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T04:11:54.119Z"
             },
             {
               "$type": "Document",
@@ -62,23 +94,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:08:12.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Paddle.cs",
               "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Paddle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle.cs",
               "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Paddle.cs",
               "RelativeToolTip": "Assets\\Scripts\\Paddle.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAA2wEQAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T03:37:26.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T03:37:26.491Z"
             }
           ]
         }
