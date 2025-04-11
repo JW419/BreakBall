@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|c:\\users\\ja314680\\documents\\github\\breakball\\breakball\\assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|c:\\users\\ja314680\\documents\\github\\breakball\\breakball\\assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bricksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|c:\\users\\ja314680\\documents\\github\\breakball\\breakball\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E69A9B9A-10DA-E574-DE9E-137A4B26C4C9}|Assembly-CSharp.csproj|C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\assets\\scripts\\ballsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BricksManager.cs",
               "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BricksManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BricksManager.cs",
               "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\BricksManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\BricksManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T05:50:47.192Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Brick.cs",
               "ToolTip": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\Brick.cs",
               "RelativeToolTip": "Assets\\Scripts\\Brick.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T05:43:26.807Z",
               "EditorCaption": ""
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BallsManager.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:11:51.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T04:11:51.952Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\ja314680\\Documents\\GitHub\\BreakBall\\BreakBall\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
